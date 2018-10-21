@@ -1,0 +1,7 @@
+ █ [ C:\Users\GOPAL\Desktop\ng\src\app\components ] ng g c contact
+CREATE src/app/components/contact/contact.component.html (26 bytes)
+CREATE src/app/components/contact/contact.component.spec.ts (635 bytes)
+CREATE src/app/components/contact/contact.component.ts (273 bytes)
+CREATE src/app/components/contact/contact.component.css (0 bytes)
+UPDATE src/app/app.module.ts (1199 bytes)
+
